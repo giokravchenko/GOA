@@ -1,0 +1,1 @@
+#control flow = კონტროლ ფლოუ არის თანმივდევრობის და გამეორების sequence,iteration,selection
